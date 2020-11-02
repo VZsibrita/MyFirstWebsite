@@ -1,0 +1,27 @@
+/* Google font */
+font-family: 'Grenze Gotisch', cursive;
+
+/* Top menu */
+body {margin: 0; padding: 0;}
+li img {width: 50px; float: left; padding-left: 9%; margin: 10px;}
+ul {list-style-type: none; overflow: hidden; background-color:#333333; padding-right:9%; margin: 0; }
+li a { display: block; font-size: x-large; letter-spacing: 0.2em; font-weight: bolder; text-decoration: underline; color:#ff0099; font-family: 'Courier New', Courier, sans-serif; float: right; margin: 15px 25px;}
+
+/* Divs */
+.content{background-image: url(assets/háttérkép.png); height: max-content; font-family: 'Grenze Gotisch', cursive;}
+.contentText{width: 80%; margin: 0 auto;}
+
+/* Content */
+ h1{font-size: 5em; padding-top: 80px;} 
+.job{font-size: 2em;  color:#ff0099; font-weight: bolder;}
+.aboutMe{font-size: 2em; font-weight:bolder }
+.separator{font-size: 2em;  text-align: center; padding: 60px;}
+.title {text-align: center; font-size: 3em; font-weight: bolder;}
+.header {font-size: 2em; font-weight: bolder; padding-top: 50px;}
+.text {font-size: 1.5em; font-weight: bolder;}
+
+/* Back to the top */
+#up {display:block; margin-left: auto;margin-right:auto;}
+
+
+}
