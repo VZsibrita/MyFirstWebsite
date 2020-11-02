@@ -3,8 +3,8 @@ font-family: 'Grenze Gotisch', cursive;
 
 /* Top menu */
 body {margin: 0; padding: 0;}
-li img {width: 50px; float: left; padding-left: 9%; margin: 10px;}
-ul {list-style-type: none; overflow: hidden; background-color:#333333; padding-right:9%; margin: 0; }
+li img {width: 50px; float: left; padding-left: 10%; margin: 10px;}
+ul {list-style-type: none; overflow: hidden; background-color:#333333; padding-right:10%; margin: 0; }
 li a { display: block; font-size: x-large; letter-spacing: 0.2em; font-weight: bolder; text-decoration: underline; color:#ff0099; font-family: 'Courier New', Courier, sans-serif; float: right; margin: 15px 25px;}
 
 /* Divs */
@@ -22,6 +22,3 @@ li a { display: block; font-size: x-large; letter-spacing: 0.2em; font-weight: b
 
 /* Back to the top */
 #up {display:block; margin-left: auto;margin-right:auto;}
-
-
-}
